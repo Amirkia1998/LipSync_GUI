@@ -1,0 +1,1 @@
+python inference.py --checkpoint_path checkpoints/wav2lip.pth --face ../resources/face/monalisa.jpg --audio ../resources/audio/nikki_short.wav
