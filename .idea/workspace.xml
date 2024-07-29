@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac8b52ee-19b7-480a-b429-8b36026e4047" name="Changes" comment="further parameters added">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
+    <list default="true" id="ac8b52ee-19b7-480a-b429-8b36026e4047" name="Changes" comment="readme and yml added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/results/result.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/lipsync_gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wav2Lip/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/wav2Lip/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wav2Lip/prompt.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +81,7 @@
       <workItem from="1721211730495" duration="2079000" />
       <workItem from="1721465744745" duration="24534000" />
       <workItem from="1721638280187" duration="92000" />
-      <workItem from="1722155876101" duration="3435000" />
+      <workItem from="1722155876101" duration="4317000" />
     </task>
     <task id="LOCAL-00001" summary="App is working">
       <option name="closed" value="true" />
@@ -129,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721490396039</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="readme and yml added">
+      <option name="closed" value="true" />
+      <created>1722164844196</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722164844196</updated>
+    </task>
+    <task id="LOCAL-00007" summary="readme and yml added">
+      <option name="closed" value="true" />
+      <created>1722165099615</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722165099615</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +150,8 @@
     <MESSAGE value="App is working" />
     <MESSAGE value="model selection option added" />
     <MESSAGE value="further parameters added" />
-    <option name="LAST_COMMIT_MESSAGE" value="further parameters added" />
+    <MESSAGE value="readme and yml added" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme and yml added" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LipSync_GUI$ui.coverage" NAME="ui Coverage Results" MODIFIED="1721487589010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
