@@ -42,7 +42,7 @@ Tips:
 - The generated videos are saved in the ```app\results``` by default.
 
 ## Examples
-<video src="https://youtu.be/eleObbZVk6k" width="500">
+<video src="https://youtu.be/eleObbZVk6k" width="180">
 
 ## Acknowledgments
 We extend our sincere gratitude to authors of this [paper](https://dl.acm.org/doi/10.1145/3394171.3413532) for their pioneering research.
