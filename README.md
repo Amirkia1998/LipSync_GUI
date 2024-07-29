@@ -5,7 +5,7 @@ Official codebase for the [Paper](https://link.springer.com/chapter/10.1007/978-
 **"Can One Model Fit All? An Exploration of Wav2Lip’s Lip-Syncing Generalizability Across Culturally Distinct Languages"**
 , presented at [ICCSA2024](https://iccsa.org/).
 
-:movie_camera: Watch the presentation [here]().
+:movie_camera: Watch the presentation [here](https://youtu.be/fdyICV5fRew?t=10417).
 
 ## Content
 ### Lip Synchronization
