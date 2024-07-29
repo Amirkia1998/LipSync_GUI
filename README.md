@@ -19,9 +19,9 @@ You can use the ```lipsync_gui.py``` script to generate lip-synced videos for an
 SOON!
 
 ### Evaluation
-Evaluate the quality of lip synchronization with this [Colab notebook]() in the ```evaluation``` folder. It computes LipSync Error Distance **(LSE-D)** and LipSync Error Confidence **(LSE-C)** values. These metrics are specifically designed to quantitatively assess lip synchronization accuracy. 
+Evaluate the quality of lip synchronization with this [Colab notebook](https://colab.research.google.com/drive/1x8edclm-3N9_asqqPqz3E1uoSibqXDsB?usp=sharing) in the ```evaluation``` folder. It computes LipSync Error Distance **(LSE-D)** and LipSync Error Confidence **(LSE-C)** values. These metrics are specifically designed to quantitatively assess lip synchronization accuracy. 
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x8edclm-3N9_asqqPqz3E1uoSibqXDsB?usp=sharing)
 
 ## Quick Start
 To generate LipSynced videos, follow these steps: 
