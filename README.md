@@ -43,7 +43,7 @@ Tips:
 
 ## Examples
 <video width="320" height="240" controls>
-  <source src="https://github.com/Amirkia1998/LipSync_GUI/blob/main/misc/diCaprio.mp4" type="video/mp4">
+  <source src="https://youtu.be/eleObbZVk6k" type="video/mp4">
 </video>
 
 ## Acknowledgments
