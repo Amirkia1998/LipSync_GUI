@@ -1,0 +1,3 @@
+ID,FileName,LSE_D,LSE_C
+1,videos/inner/1_wav2lip.mp4,7.070325,7.3247795
+2,videos/inner/3_wav2lip.mp4,6.9516263,7.4974446
