@@ -42,15 +42,7 @@ Tips:
 - The generated videos are saved in the ```app\results``` by default.
 
 ## Examples Outputs
-
-https://github.com/user-attachments/assets/e2536e85-c558-497c-8530-5dc40f0bb004
-
-https://github.com/user-attachments/assets/2a8cbcbc-ad38-4591-9861-0e1da5ef40ed
-
-https://github.com/user-attachments/assets/cbb6bca9-84ae-471d-a6f7-3124e7f0d8e4
-
-
-
+Check the ```misc``` folder of this repo.
 
 ## Acknowledgments
 We extend our sincere gratitude to authors of this [paper](https://dl.acm.org/doi/10.1145/3394171.3413532) for their pioneering research.
