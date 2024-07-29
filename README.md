@@ -41,8 +41,8 @@ Tips:
 - For initial testing, you can use the input audio and faces saved in the ```resources``` directory.
 - The generated videos are saved in the ```app\results``` by default.
 
-## Examples
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eleObbZVk6k/0.jpg)](https://www.youtube.com/watch?v=eleObbZVk6k)
+## Examples Outputs
+![avatar_s](https://github.com/user-attachments/assets/ebbc5904-ac43-4786-98a1-45d80d3fcf06)
 
 ## Acknowledgments
 We extend our sincere gratitude to authors of this [paper](https://dl.acm.org/doi/10.1145/3394171.3413532) for their pioneering research.
